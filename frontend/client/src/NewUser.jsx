@@ -43,8 +43,8 @@ export default function NewUser() {
         />
         <br />
         <input
-          placeholder="Enter Email"
-          type="text"
+          placeholder="Enter Email "
+          type="email"
           onChange={handleEmailChnage}
         />
         <br />
